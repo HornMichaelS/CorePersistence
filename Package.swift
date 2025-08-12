@@ -43,7 +43,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/vmanot/Merge.git", branch: "master"),
+        .package(url: "https://github.com/hornmichaels/Merge.git", branch: "master"),
         .package(url: "https://github.com/vmanot/Swallow.git", branch: "master")
     ],
     targets: [
